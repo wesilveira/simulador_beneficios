@@ -1,0 +1,203 @@
+
+
+POST RECEIVED - 2021-02-24 20:47:13
+Array
+PAYLOAD BITRIX
+972
+{
+        "fields": {
+            "TITLE": "Teste Wellington",
+            "NAME": "Teste Wellington",
+            "PHONE": [
+                {
+                    "VALUE": "85997329876",
+                    "VALUE_TYPE": "WORK"
+                }
+            ],
+            "EMAIL": [
+                {
+                    "VALUE": "wellington@outlook.com",
+                    "VALUE_TYPE": "WORK"
+                }
+            ],
+            "OPENED": "Y",
+            "COMMENTS": "CRIADO VIA INTEGRAÇÃO RD STATION",
+            "TYPE_ID": "CLIENT",
+            "SOURCE_ID": "ADVERTISING",
+            "UTM_SOURCE": "Facebook Ads",
+            "UTM_MEDIUM": "social",
+            "UTM_CAMPAIGN": "heroes_way_unimed_brasilia_tabela",
+            "UF_CRM_1608301951": "12317"
+        }
+    }
+
+{"error":"false","result":{"id":972,"name":"Teste Wellington","email":"wellington@outlook.com","phone":"85997329876","stage_lead":"first_conversion","utm_source":"Facebook Ads","utm_medium":"social","operadora":"12317"},"message":"Lead criado com sucesso"}
+
+
+POST RECEIVED - 2021-02-24 20:48:34
+Array
+PAYLOAD BITRIX
+974
+{
+        "fields": {
+            "TITLE": "Teste Wellington",
+            "NAME": "Teste Wellington",
+            "PHONE": [
+                {
+                    "VALUE": "85997329876",
+                    "VALUE_TYPE": "WORK"
+                }
+            ],
+            "EMAIL": [
+                {
+                    "VALUE": "wellington@outlook.com",
+                    "VALUE_TYPE": "WORK"
+                }
+            ],
+            "OPENED": "Y",
+            "COMMENTS": "CRIADO VIA INTEGRAÇÃO RD STATION",
+            "TYPE_ID": "CLIENT",
+            "SOURCE_ID": "ADVERTISING",
+            "UTM_SOURCE": "Facebook Ads",
+            "UTM_MEDIUM": "social",
+            "UTM_CAMPAIGN": "heroes_way_unimed_brasilia_tabela",
+            "UF_CRM_1608301951": "12317"
+        }
+    }
+
+{"error":"false","result":{"id":974,"name":"Teste Wellington","email":"wellington@outlook.com","phone":"85997329876","stage_lead":"first_conversion","utm_source":"Facebook Ads","utm_medium":"social","operadora":"12317"},"message":"Lead criado com sucesso"}
+
+
+POST RECEIVED - 2021-02-24 20:50:24
+
+
+
+POST RECEIVED - 2021-02-24 20:51:24
+
+
+
+POST RECEIVED - 2021-02-24 20:53:00
+event=ONCRMINVOICEADD&data%5BFIELDS%5D%5BID%5D=218&ts=1614195066&auth%5Bdomain%5D=heaolu.bitrix24.com.br&auth%5Bclient_endpoint%5D=https%3A%2F%2Fheaolu.bitrix24.com.br%2Frest%2F&auth%5Bserver_endpoint%5D=https%3A%2F%2Foauth.bitrix.info%2Frest%2F&auth%5Bmember_id%5D=20e916d18229456665aa4b9ccf25bd77&auth%5Bapplication_token%5D=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+POST RECEIVED - 2021-02-24 20:53:48
+event=ONCRMINVOICEADD&data%5BFIELDS%5D%5BID%5D=218&ts=1614195066&auth%5Bdomain%5D=heaolu.bitrix24.com.br&auth%5Bclient_endpoint%5D=https%3A%2F%2Fheaolu.bitrix24.com.br%2Frest%2F&auth%5Bserver_endpoint%5D=https%3A%2F%2Foauth.bitrix.info%2Frest%2F&auth%5Bmember_id%5D=20e916d18229456665aa4b9ccf25bd77&auth%5Bapplication_token%5D=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+
+POST RECEIVED - 2021-02-24 20:54:21
+event=ONCRMINVOICEADD&data%5BFIELDS%5D%5BID%5D=218&ts=1614195066&auth%5Bdomain%5D=heaolu.bitrix24.com.br&auth%5Bclient_endpoint%5D=https%3A%2F%2Fheaolu.bitrix24.com.br%2Frest%2F&auth%5Bserver_endpoint%5D=https%3A%2F%2Foauth.bitrix.info%2Frest%2F&auth%5Bmember_id%5D=20e916d18229456665aa4b9ccf25bd77&auth%5Bapplication_token%5D=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+
+POST RECEIVED - 2021-02-24 21:01:14
+event=ONCRMINVOICEADD&data%5BFIELDS%5D%5BID%5D=218&ts=1614195066&auth%5Bdomain%5D=heaolu.bitrix24.com.br&auth%5Bclient_endpoint%5D=https%3A%2F%2Fheaolu.bitrix24.com.br%2Frest%2F&auth%5Bserver_endpoint%5D=https%3A%2F%2Foauth.bitrix.info%2Frest%2F&auth%5Bmember_id%5D=20e916d18229456665aa4b9ccf25bd77&auth%5Bapplication_token%5D=q5la3fnfyg2dfkhv47a970sl7h403mk2
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+
+POST RECEIVED - 2021-02-24 21:03:30
+event=ONCRMINVOICEADD&data%5BFIELDS%5D%5BID%5D=218&ts=1614195066&auth%5Bdomain%5D=heaolu.bitrix24.com.br&auth%5Bclient_endpoint%5D=https%3A%2F%2Fheaolu.bitrix24.com.br%2Frest%2F&auth%5Bserver_endpoint%5D=https%3A%2F%2Foauth.bitrix.info%2Frest%2F&auth%5Bmember_id%5D=20e916d18229456665aa4b9ccf25bd77&auth%5Bapplication_token%5D=q5la3fnfyg2dfkhv47a970sl7h403mk2
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+resultado: 
+
+
+POST RECEIVED - 2021-02-24 21:13:15
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+
+POST RECEIVED - 2021-02-24 21:14:24
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+
+
+
+POST RECEIVED - 2021-02-24 21:15:19
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+
+
+POST RECEIVED - 2021-02-24 21:16:33
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+
+
+
+POST RECEIVED - 2021-02-24 21:18:34
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+
+POST RECEIVED - 2021-02-24 21:21:06
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+POST RECEIVED - 2021-02-24 21:22:09
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+POST RECEIVED - 2021-02-24 21:22:20
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+POST RECEIVED - 2021-02-24 21:23:57
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+POST RECEIVED - 2021-02-24 21:25:55
+event=ONCRMINVOICEADD&data[FIELDS][ID]=218&ts=1614195066&auth[domain]=heaolu.bitrix24.com.br&auth[client_endpoint]=https://heaolu.bitrix24.com.br/rest/&auth[server_endpoint]=https://oauth.bitrix.info/rest/&auth[member_id]=20e916d18229456665aa4b9ccf25bd77&auth[application_token]=q5la3fnfyg2dfkhv47a970sl7h403mk2
+ONCRMINVOICEADD
+218
+
+
+POST RECEIVED - 2021-02-24 21:33:49
+Evento Recebido: ONCRMINVOICEADD
+ID Entidade Recebida: 218
+
+
+POST RECEIVED - 2021-02-24 21:34:08
+Evento Recebido: ONCRMINVOICE
+ID Entidade Recebida: 218
+
+
+POST RECEIVED - 2021-02-24 21:34:18
+Evento Recebido: 
+ID Entidade Recebida: 218
+
+
+POST RECEIVED - 2021-02-24 21:34:25
+Event description no localizable
+
+
+POST RECEIVED - 2021-02-24 21:34:34
+Event description no localizable
+
+
+POST RECEIVED - 2021-02-24 21:34:47
+Event description no localizable
+
+
+POST RECEIVED - 2021-02-24 21:37:49
+Event description no localizable
+
+
+POST RECEIVED - 2021-02-24 21:37:55
+Evento Recebido: ONCRMINVOICEADD
+ID Entidade Recebida: 218
+
+
+POST RECEIVED - 2021-02-24 21:39:21
+RECEIVED EVENT BITRIX24
+Evento Recebido: ONCRMINVOICEADD
+ID Entidade Recebida: 218
